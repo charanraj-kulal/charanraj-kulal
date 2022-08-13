@@ -1,0 +1,12 @@
+[07-Jun-2022 06:08:43 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/idc/public_html/CHARANRAJ/new_website_UI/index.php on line 2
+[07-Jun-2022 06:09:39 UTC] PHP Warning:  require_once(header): failed to open stream: No such file or directory in /home/idc/public_html/CHARANRAJ/new_website_UI/index.php on line 1
+[07-Jun-2022 06:09:39 UTC] PHP Fatal error:  require_once(): Failed opening required 'header' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/idc/public_html/CHARANRAJ/new_website_UI/index.php on line 1
+[07-Jun-2022 06:10:04 UTC] PHP Warning:  require_once(header): failed to open stream: No such file or directory in /home/idc/public_html/CHARANRAJ/new_website_UI/index.php on line 1
+[07-Jun-2022 06:10:04 UTC] PHP Fatal error:  require_once(): Failed opening required 'header' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/idc/public_html/CHARANRAJ/new_website_UI/index.php on line 1
+[07-Jun-2022 06:10:27 UTC] PHP Warning:  require_once(Header): failed to open stream: No such file or directory in /home/idc/public_html/CHARANRAJ/new_website_UI/index.php on line 1
+[07-Jun-2022 06:10:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'Header' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/idc/public_html/CHARANRAJ/new_website_UI/index.php on line 1
+[07-Jun-2022 06:12:07 UTC] PHP Warning:  require_once(header): failed to open stream: No such file or directory in /home/idc/public_html/CHARANRAJ/new_website_UI/index.php on line 1
+[07-Jun-2022 06:12:07 UTC] PHP Fatal error:  require_once(): Failed opening required 'header' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/idc/public_html/CHARANRAJ/new_website_UI/index.php on line 1
+[07-Jun-2022 06:49:03 UTC] PHP Parse error:  syntax error, unexpected 'all' (T_STRING), expecting ';' or ',' in /home/idc/public_html/CHARANRAJ/new_website_UI/footer.php on line 64
+[07-Jun-2022 06:49:06 UTC] PHP Parse error:  syntax error, unexpected 'all' (T_STRING), expecting ';' or ',' in /home/idc/public_html/CHARANRAJ/new_website_UI/footer.php on line 64
+[07-Jun-2022 07:23:13 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, null given in /home/idc/public_html/CHARANRAJ/new_website_UI/footer.php on line 66
