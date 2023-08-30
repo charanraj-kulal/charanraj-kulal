@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charanraj-kulal
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning BCA
+- 🌱 I’m currently learning MCA
 - 💞️ I’m looking to collaborate on teamwork
 - 📫 Reach me with email i,e charanraj9731@gmail.com
 
